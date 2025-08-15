@@ -1,3 +1,6 @@
+## 0.1.0
+- chore: update analyzer packages and remove deprecated code
+- chore: update dependencies
 ## 0.1.0-alpha.13
 - fix: preBuildScriptUri path decoding error #4
 ## 0.1.0-alpha.12
