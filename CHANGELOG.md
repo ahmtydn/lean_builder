@@ -1,3 +1,5 @@
+## 0.1.0+1
+- chore: downgrade some pinned dependencies to avoid breaking changes
 ## 0.1.0
 - chore: update analyzer packages and remove deprecated code
 - chore: update dependencies
