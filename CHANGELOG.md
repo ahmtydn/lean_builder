@@ -1,3 +1,5 @@
+## 0.1.1
+- chore: update dependencies
 ## 0.1.0+1
 - chore: downgrade some pinned dependencies to avoid breaking changes
 ## 0.1.0
